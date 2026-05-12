@@ -1,0 +1,21 @@
+Name,Country,GPA,Other exams,Language exams,Application date,Cost,Percentage of fogeign students,gpa_requirement,other_exam_type,other_exam_score,exam_type,exam_score,cost_value,foreign_percent_value,region
+Massachusetts Institute of Technology (MIT),USA,2026-08-03 00:00:00,SAT 1550,IELTS 7.0,2025-11-01,61600,0.12,3.0,SAT,1550.0,IELTS,7.0,61600,12,North America
+Stanford University,USA,2026-09-03 00:00:00,SAT 1510,IELTS 7.0,2025-11-01,62500,7.4%,3.0,SAT,1510.0,IELTS,7.0,62500,7,North America
+Harvard University,USA,2026-09-03 00:00:00,SAT 1520,IELTS 7.5,2025-11-01,52550,0.2,3.0,SAT,1520.0,IELTS,7.5,52550,20,North America
+New York University (NYU),USA,2026-06-03 00:00:00,SAT 1450,IELTS 7.5,2025-11-01,62000,22.2%,3.0,SAT,1450.0,IELTS,7.5,62000,22,North America
+Princeton University,USA,2026-09-03 00:00:00,SAT 1520,IELTS 8.0,2025-11-01,62400,0.18,3.0,SAT,1520.0,IELTS,8.0,62400,18,North America
+Duke University,USA,2026-07-03 00:00:00,SAT 1500,IELTS 7.0,2025-11-01,65000,0.19,3.0,SAT,1500.0,IELTS,7.0,65000,19,North America
+Yale University,USA,4.0,SAT 1510,IELTS 7.0,2025-11-01,64700,0.24,4.0,SAT,1510.0,IELTS,7.0,64700,24,North America
+University of Oxford,United Kingdom,2026-06-03 00:00:00,IB 38,IELTS 7.0,2025-10-15,56000,0.43,3.0,IB,38.0,IELTS,7.0,56000,43,Europe
+University of Edinburgh,United Kingdom,2026-07-03 00:00:00,IB 38,IELTS 7.0,2026-01-15,56000,0.31,3.0,IB,38.0,IELTS,7.0,56000,31,Europe
+University of Cambridge,United Kingdom,2026-07-03 00:00:00,IB 38,IELTS 7.5,2025-10-15,48300,0.42,3.0,IB,38.0,IELTS,7.5,48300,42,Europe
+University College London,United Kingdom,2026-03-03 00:00:00,IB 38,IELTS 7.5,2026-01-15,61500,0.57,3.0,IB,38.0,IELTS,7.5,61500,56,Europe
+Imperial College London,United Kingdom,2026-04-03 00:00:00,IB 38,IELTS 7.0,2026-01-15,45700,0.5,4.0,IB,38.0,IELTS,7.0,45700,50,Europe
+Tsinghua University,China,2026-05-03 00:00:00,-,HSK 5,2025-02-28,8000,0.09,3.0,,,HSK,5.0,8000,9,Asia
+Fudan University,China,3.0,-,HSK 5,2025-02-28,7500,0.09,3.0,,,HSK,5.0,7500,9,Asia
+Peking University,China,2026-07-03 00:00:00,-,HSK 5,2025-02-28,8000,0.16,3.0,,,HSK,5.0,8000,16,Asia
+Shanghai Jiao Tong University,China,2026-05-03 00:00:00,-,HSK 5,2025-02-28,8000,0.06,3.0,,,HSK,5.0,8000,6,Asia
+ETH Zurich ,Switzerland,2026-08-03 00:00:00,IB 38,IELTS 8.0,2026-04-30,800,0.37,3.0,IB,38.0,IELTS,8.0,800,37,Europe
+Nanyang Technological University,Singapore,2026-06-03 00:00:00,-,HSK 6,2025-03-31,28200,0.29,3.0,,,HSK,6.0,28200,28,Asia
+National University of Singapore,Singapore,2026-07-03 00:00:00,IB 38,IELTS 6.5,2025-02-28,28200,0.39,3.0,IB,38.0,IELTS,6.5,28200,39,Asia
+University of Toronto,Canada,2026-07-03 00:00:00,IB 38,IELTS 6.5,2026-01-15,49000,0.29,3.0,IB,38.0,IELTS,6.5,49000,28,North America
